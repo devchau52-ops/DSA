@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devchau52-ops/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/devchau52-ops/DSA/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/devchau52-ops/DSA/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devchau52-ops/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/devchau52-ops/DSA/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/devchau52-ops/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/devchau52-ops/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
