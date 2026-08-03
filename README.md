@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/devchau52-ops/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devchau52-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0520-detect-capital](https://github.com/devchau52-ops/DSA/tree/master/0520-detect-capital) |
+| [1143-longest-common-subsequence](https://github.com/devchau52-ops/DSA/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/devchau52-ops/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devchau52-ops/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/devchau52-ops/DSA/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/devchau52-ops/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devchau52-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/devchau52-ops/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
