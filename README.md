@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/devchau52-ops/DSA/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/devchau52-ops/DSA/tree/master/1143-longest-common-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/devchau52-ops/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/devchau52-ops/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devchau52-ops/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/devchau52-ops/DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/devchau52-ops/DSA/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/devchau52-ops/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devchau52-ops/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/devchau52-ops/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devchau52-ops/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
