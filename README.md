@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devchau52-ops/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devchau52-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/devchau52-ops/DSA/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/devchau52-ops/DSA/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/devchau52-ops/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devchau52-ops/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
