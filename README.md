@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/devchau52-ops/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devchau52-ops/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/devchau52-ops/DSA/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/devchau52-ops/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devchau52-ops/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devchau52-ops/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/devchau52-ops/DSA/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devchau52-ops/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/devchau52-ops/DSA/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
