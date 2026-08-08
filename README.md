@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devchau52-ops/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/devchau52-ops/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devchau52-ops/DSA/tree/master/0027-remove-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devchau52-ops/DSA/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devchau52-ops/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
