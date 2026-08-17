@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devchau52-ops/DSA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/devchau52-ops/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/devchau52-ops/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/devchau52-ops/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/devchau52-ops/DSA/tree/master/0152-maximum-product-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devchau52-ops/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devchau52-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/devchau52-ops/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/devchau52-ops/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/devchau52-ops/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devchau52-ops/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devchau52-ops/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devchau52-ops/DSA/tree/master/0217-contains-duplicate) |
@@ -148,4 +151,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/devchau52-ops/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/devchau52-ops/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devchau52-ops/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
