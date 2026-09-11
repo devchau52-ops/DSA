@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/devchau52-ops/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devchau52-ops/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/devchau52-ops/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/devchau52-ops/DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/devchau52-ops/DSA/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/devchau52-ops/DSA/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/devchau52-ops/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/devchau52-ops/DSA/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/devchau52-ops/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/devchau52-ops/DSA/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/devchau52-ops/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/devchau52-ops/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/devchau52-ops/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devchau52-ops/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
